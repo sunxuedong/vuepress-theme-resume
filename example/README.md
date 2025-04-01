@@ -1,70 +1,96 @@
 <h1>
-  <span>姓名</span>
+  <span>孙雪冬</span>
   <ul>
-    <li><span>电话</span>xxx xxxx xxxx</li>
-    <li><span>微信</span>xxxxxxxxxxx</li>
-    <li><span>邮箱</span><a href="mailto:ko.momo@qq.com">ko.momo@qq.com</a></li>
-    <li><span>Github</span><a>github.com/komomoo</a></li>
+    <li><span>电话</span>13270190904</li>
+    <li><span>邮箱</span><a href="hal_focus@163.com">hal_focus@163.com</a></li>
   </ul>
 </h1>
 
 ## 教育经历
 
-硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
-本科 xxxxxxxxxxxx大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
+本科 哈尔滨理工大学 软件工程 <span class="right">2012.09 - 2016.06</span>
 
 ## 工作经历
 
-xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
-xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014.07 - 2016.07</span>
-
-- 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**
-
-## 项目经验
-
-### 项目一名称<span class="role">:&nbsp;职责</span><span class="right">2018.01 - 至今</span>
-
-- 技术栈：**XXX Xxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
----
-
-### 项目二名称<span class="role">:&nbsp;核心开发者</span><span class="right">2017.01 - 2018.01</span>
-
-- 技术栈：**XXX Xxxx + Xxx Xxxxxx + Xxxxxx**
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
----
-
-### 项目三名称<span class="role">:&nbsp;项目负责人</span><span class="right">2016.01 - 2017.01</span>
-
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-
----
-
-### 项目四名称<span class="role">:&nbsp;项目维护</span><span class="right">2015.01 - 2016.01</span>
-
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX。
+海得控制-WEB前端⼯程师<span class="right">2023.10 - ⾄今</span><br>
+陆金所控股-WEB前端⼯程师<span class="right">2021.03 - 2023.08</span><br>
+韵达快递-WEB前端⼯程师<span class="right">2019.12 - 2021.03</span><br>
+科⼤国创-WEB前端⼯程师<span class="right">2018.06 - 2019.12</span><br>
+中科院信工所-WEB前端⼯程师<span class="right">2016.07 - 2018.06</span><br>
 
 ## 技能描述
 
-- 了解 XXXXXXXXXXXXXXXXXXX，**掌握 XXXXXXXXXXXXX**
-- 熟悉 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 了解 XXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- 掌握 XXXXXXXXXX，XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXX，XXXXXXXXXXXXX
+- 前端：熟练掌握 HTML/JavaScript ES6+/CSS，React、Vue 框架、⼩程序都有使⽤，⽬前以⼩程序、
+React 为主
+- 后端：熟悉 Nodejs、Express，曾在个⼈博客中使⽤ Express 框架
+- 构建：熟悉 webpack 打包
+- 数据库：熟悉 MySQL，搭建博客
+- 版本管理：使⽤ Lerna 多包管理
+- 其他：了解 Vue 原理、React 原理、Webpack 打包优化
 
-## 自我评价
+## 项目经验
 
-- XXXXXXXXXXXXXXXXXXXXXXXXXXX,XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+### 海得控制网络管理系统<span class="right">2023.10 - ⾄今</span>
+
+- **项⽬描述：** 扫描⽹络设备以及终端设备，在设备类型及品牌⽅向上设置监控指标，达到设备的性能监控、告警监
+控的⽬的，⽣成拓扑结构来显示结果
+- **涉及技术：** ElementUI二次封装、Antv G6绘制拓扑图、Web Socket订阅、Vuex状态管理、基于Webpack打包生成配置文件
+- **个⼈职责：**
+  - 负责拓扑结构渲染的开发
+  - 负责可配置拓扑的⼤屏开发
+  - 其他管理⻚⾯，如资源中⼼、监控中⼼的开发
+  - 公共组件，如全局带有模糊搜索、⾼级类 sql 搜索的 table 组件的开发与维护
+  - 使⽤ css 变量适配浅暗主题
+  - 解决项⽬热更新失效问题
+
+---
+
+### 陆店通（微信⼩程序 + h5 + pc）<span class="right">2022.08 - 2023.08</span>
+
+- **项⽬描述：** 陆店通是⼀个类似美团、⼤众点评的平台，⽬标是深化连接⼩微企业主、内容推送及运营服务，为⼩
+微企业主创造更⼤的价值
+- **涉及技术：** 原⽣微信⼩程序、vantUI
+- **个⼈职责：**
+  - 负责陆店通⼩程序、陆店通⼯作台⼩程序、陆店通 h5、pc 后台开发
+  - b 端功能包括店铺设置、卡券设置、⼈脉找⼈及优化、店铺定位及搜索、h5 年度账单等
+  - c 端功能有⽀付流程等
+  - 封装组件到公共组件库，供不同⼩程序使⽤
+  - 项⽬出现⻓列表卡顿问题，我负责其中列表优化，通过开发虚拟列表成功解决了该问题，通过缓存预加载⽅
+式提升⽤户体验
+
+---
+
+### 资管宝宝-保险理财产品（h5）<span class="right">2021.03 - 2022.08</span>
+
+- **项⽬描述：** 保险理财产品的投资项⽬、包括 c 端单品售卖、b 端后管系统、企微相关
+- **涉及技术：** React Hooks、Webpack、Java、LuLu框架、LuMobileUI
+- **个⼈职责：**
+  - 作为⼩组组⻓，分配任务给组员，解决组内开发问题，跟踪联调进度，保证需求按时交付
+  - 负责理财产品单品⻚、购买、赎回的开发
+  - 负责渠道⽅⾯的开发，如带有 dropdown 搜索功能的客户列表⻚的开发，投资详情的展示，企业微信中
+API 的调⽤来联系客户等等
+  - 负责与中台对接、跟踪⼯单定位⽣产问题
+
+---
+
+### 财务⼯作台（pc）<span class="right">2019.12 - 2021.03</span>
+
+- **项⽬描述：** 韵达快递的财务平台，集成两个⼦系统，结算系统和报价系统
+- **涉及技术：** Vue、Webpack、SpreadJS
+- **个⼈职责：**
+  - 前端为 Vue，使⽤ Webpack 多⻚⾯打包
+  - 项⽬中成员都使⽤ SpreadJS 编写代码，代码⻛格不⼀致导致代码可维护性变差，我作为负责⼈，基于
+SpreadJS 封装公共组件，提升开发效率，提升代码可维护性
+  - 组件已开源 https://www.npmjs.com/package/spread-js-table
+
+---
+
+### 资源管理系统<span class="right">2018.06 - 2019.12</span>
+
+- **项⽬描述：** 中国移动的资源管理平台项⽬，项⽬分 pc 和 h5 两个项⽬，提供 ArcGIS 地图操作机房、⼯单
+流程、权限管理、数据统计等功能
+- **涉及技术：** Vue，Vuex，ArcGIS
+- **个⼈职责：**
+  - 使⽤ArcGIS开发地图
+  - 随着项⽬开发，复杂⻚⾯中会有组件跨层级过多，导致组件间通讯困难的问题，我作为负责⼈，在项⽬中引
+⼊ Vuex 解决了状态集中管理困难的问题
